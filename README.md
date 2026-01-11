@@ -77,13 +77,13 @@ const apikey = 'YOUR_API_KEY_HERE';
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/clima-flutter.git
+git clone https://github.com/GhBMpr/Clima.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd clima-flutter
+cd Clima
 ```
 
 3. Install dependencies:
